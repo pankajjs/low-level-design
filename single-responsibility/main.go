@@ -1,5 +1,5 @@
 // Single Responsibility Principle
-package srp
+package singleresponsibility
 
 type Marker struct {
 	price int

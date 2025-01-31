@@ -1,5 +1,5 @@
 // Open closed Principle
-package ocp
+package openclosed
 
 type Marker struct {
 	price int

@@ -1,5 +1,5 @@
 // Interface Segregation Principle
-package isp
+package interfacesegregation
 
 type RestaurantEmpolyee interface{
 	cook()
